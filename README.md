@@ -29,3 +29,5 @@ The data-set is also based on hypotheses of store level and product level. Where
 #### 4) Result Prediction page:
 
 ![alt-text](https://github.com/Nitin13-git/Big_Mart_sales_Prediction/blob/main/Screenshots/Prediction_Result_Page.jpg)
+
+                                          ## Thanks 
