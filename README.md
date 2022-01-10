@@ -30,4 +30,4 @@ The data-set is also based on hypotheses of store level and product level. Where
 
 ![alt-text](https://github.com/Nitin13-git/Big_Mart_sales_Prediction/blob/main/Screenshots/Prediction_Result_Page.jpg)
 
-                                          ## Thanks 
+##               Thanks 
